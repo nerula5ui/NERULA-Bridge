@@ -1,0 +1,7 @@
+# Never push these - they contain local configs and API keys
+backup/
+*.bak-hm
+*.bak
+*.bak-*
+.env
+hermes-manager.json
